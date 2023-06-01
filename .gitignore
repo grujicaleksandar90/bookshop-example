@@ -13,11 +13,6 @@ target/
 .che/
 .gen/
 
-# MTA
-*_mta_build_tmp
-*.mtar
-mta_archives/
-
 # Other
 .DS_Store
 *.orig
